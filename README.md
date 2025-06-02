@@ -6,11 +6,11 @@ This notebook applies Random Forest and XGBoost algorithms to predict the histol
 
 ## 🔧 Features
 
-- **Exploratory Data Analysis** (EDA) on patient clinical features
-- **Data cleaning and encoding** of categorical variables
-- **Model training** with Random Forest and XGBoost classifiers
-- **Hyperparameter tuning** using GridSearchCV
-- **Evaluation** using classification report, confusion matrix, and accuracy
+- **Exploratory Data Analysis** (EDA) on patient clinical features.
+- **Data cleaning and encoding** of categorical variables.
+- **Model training** with Random Forest and XGBoost classifiers.
+- **Hyperparameter tuning** using GridSearchCV.
+- **Evaluation** using classification report, confusion matrix, and accuracy.
 
 ---
 
